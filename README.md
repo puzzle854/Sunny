@@ -1,2 +1,2 @@
 # AC2 - 2SunnyLand
-Feito por: Eric Pfeuti, Vitor Buzato e Kauan Sfrizo Mattos 3EMIA;
+Feito por: Pedro Pereira, Arthur Cordão e Cesar Furusawa 3 EMIB
